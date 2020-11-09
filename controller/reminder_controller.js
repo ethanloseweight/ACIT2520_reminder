@@ -37,9 +37,14 @@ let remindersController = {
     res.redirect('/reminders');
   },
 
-  // Show the Edit Reminder Page
   edit: (req, res) => {
     // ⭐️ your implementation here ⭐️
+    let reminderToFind = req.params.id;
+    let searchResult = database.cindy.reminders.find(function (reminder) {
+      return reminder.id == reminderToFind;
+    })
+    res.render('reminder/edit', { reminderItem: searchResult })
+
 
   },
 
@@ -51,6 +56,12 @@ let remindersController = {
   // Delete the Reminder
   delete: (req, res) => {
     // ⭐️ your implementation here ⭐️
+    let reminderToDelete = req.params.id;
+    let obj = database.cindy.reminders.find(obj => obj,id == reminderToDelete)
+    let deleteIndex = database.cindy.reminders.indexOf(obj);
+    database.cindy.reminders.splice(deleteIndex, 1);
+    res.redirect('/reminders')
+
   }
 }
 
