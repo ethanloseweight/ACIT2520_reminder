@@ -1,4 +1,4 @@
-# Reminder APP
+# Reminder App
 ## Developed by Rony Tran, 
   
 # Description:
