@@ -1,4 +1,4 @@
-# Maze Game
+# Reminder APP
 ## Developed by Rony Tran, 
   
 # Description:
