@@ -1,3 +1,4 @@
+```
 reminderApp2 2
  ┣ controller
  ┃ ┣ auth_controller.js
@@ -24,3 +25,4 @@ reminderApp2 2
  ┣ index.js
  ┣ package-lock.json
  ┗ package.json
+ ```
