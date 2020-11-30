@@ -1,3 +1,8 @@
+# Maze Game
+## Developed by Rony Tran, 
+  
+# Description:
+
 ```
 reminderApp2 2
  ┣ controller
