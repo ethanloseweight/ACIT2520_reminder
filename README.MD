@@ -33,3 +33,7 @@ reminderApp2 2
  ```
 # Tasks not finished
 ## Authentication , database, and API
+We were struggled with python project last week, and we will try to things done with authentication, database and API this week.
+Rony will work on authentication during this week by creating a new landing page as a login portal.
+Oliver Y will design and create a database which contains user information.
+Oliver S and Ethan are going to choose proper APIs and implement them to our project.
