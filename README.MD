@@ -1,5 +1,5 @@
 # Reminder App
-## Developed by Rony Tran, 
+## Developed by Rony Tran, Oliver Yan, Oliver Si, Ethan Liu
   
 # Description:
 
