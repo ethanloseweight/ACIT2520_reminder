@@ -51,3 +51,6 @@ Sprint 4:
   How we could try and implement: [We will use the website unsplash to get pictures of people]
   
  
+3. Choose API integration in our applicaiton.[INCOMPLETE]
+
+  How we could try and implement:[We use Flask to server forward.Flask is a web framework. This means flask provides you with tools, libraries and technologies that allow you to build a web application.]
